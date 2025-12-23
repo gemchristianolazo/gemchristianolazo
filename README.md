@@ -7,20 +7,20 @@ Certified Data Professional with a **95% technical competency rating**. I bridge
 
 ### 🛠️ Technical Ecosystem
 
-| Category | Tools & Technologies |
+| Category | Tools & Technologies (Clickable) |
 | :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white) ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white) |
-| **Data Science** | ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas) ![ScikitLearn](https://img.shields.io/badge/-Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy) |
-| **ML & AI** | `XGBoost` `Neural Networks` `Reinforcement Learning` `Predictive Modeling` |
-| **Visualization** | ![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white) `Matplotlib` `Seaborn` `Google Sheets` |
+| **Languages** | [![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)](https://www.python.org/) [![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)](https://learn.microsoft.com/en-us/sql/sql-server/) [![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white)](https://www.r-project.org/) |
+| **Data Science** | [![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas)](https://pandas.pydata.org/) [![ScikitLearn](https://img.shields.io/badge/-Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white)](https://scikit-learn.org/) [![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy)](https://numpy.org/) |
+| **ML & AI** | [![XGBoost](https://img.shields.io/badge/-XGBoost-black?logo=xgboost)](https://xgboost.readthedocs.io/) [![Neural Networks](https://img.shields.io/badge/-Neural%20Networks-red?logo=pytorch)](https://pytorch.org/) [![Reinforcement Learning](https://img.shields.io/badge/-Reinforcement%20Learning-blueviolet)](https://www.openai.com/) |
+| **Visualization** | [![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white)](https://www.tableau.com/) [![Matplotlib](https://img.shields.io/badge/-Matplotlib-013243)](https://matplotlib.org/) [![Seaborn](https://img.shields.io/badge/-Seaborn-4C72B0)](https://seaborn.pydata.org/) |
 
 ---
 
 ### 💼 Experience & Leadership
 
 * **🏆 Founder & Lead Data Analyst** | *Community Analytics Philippines (CAPhil)* Providing "Data for Good" consultancy for SMBs through custom ETL pipelines and dashboards.
-* **🤖 Vice President** | *Artificial Intelligence Club, TUP-Manila* Leading student workshops on Neural Network architectures and AI Ethics.
-* **📊 Statistics Instructor** | *Academic Immersion* Achieved a **100% Performance Rating** instructing Grade 11 Descriptive Statistics.
+* **🤖 Vice President** | *Artificial Intelligence Club, TUP-Manila* Co-leading the student body in advancing AI literacy and organizing technical sessions on Neural Networks and Data Ethics.
+* **📊 Statistics Instructor** | *Academic Immersion* Achieved a **100% Performance Rating** instructing Grade 11 Descriptive Statistics and Data Interpretation.
 
 ---
 
